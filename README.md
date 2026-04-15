@@ -1,4 +1,4 @@
-## Xebia Session Manager
+## Nextjs-Supabase-Prisma-Auth-Setup
 
 Template project for a simple session manager using:
 - Next.js App Router
